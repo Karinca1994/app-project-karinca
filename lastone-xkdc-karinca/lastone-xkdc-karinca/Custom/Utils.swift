@@ -4,6 +4,7 @@
 //
 //  Created by Karinca Danielsen on 30/09/2022.
 //
+// downloaded font at https://eng.fontke.com/download/?hash=g5xaOv56fhe7qBQfWndngKb0UBazGZ54rB00SIdP8liY%2F9TsF%2BHh6z4LNuR8kgHA9KcvPMT4GRZTIJRlhhh27OHwXaDVDoFon%2BB%2BTzopURtoaXaandiPVqXWMG9kDB1f&name=xkcd.otf&package=2
 
 import Foundation
 import SwiftUI
