@@ -3,12 +3,19 @@
 Så dette projectet handlet om å lage en xkdc comic app der kunden kunne:
 
 •	browse through the comics
+
 •	see the comic details, including its description,
+
 •	search for comics by the comic number as well as text,
+
 •	get the comic explanation
+
 •	favorite the comics, which would be available offline too,
+
 •	send comics to others,
+
 •	get notifications when a new comic is published,
+
 •	support multiple form factors.
 
 før jeg begynte å kode så laget jeg en tenkekart, category kart og noen enkle papirsketchs for hånd, 
